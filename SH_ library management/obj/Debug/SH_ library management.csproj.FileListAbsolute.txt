@@ -1,0 +1,8 @@
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_ library management\bin\Debug\SH_ library management.exe
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_ library management\bin\Debug\SH_ library management.exe.config
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_ library management\obj\Debug\SH_ library management.csproj.AssemblyReference.cache
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_ library management\obj\Debug\SH_ library management.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_ library management\obj\Debug\SH_ library management.csproj.CoreCompileInputs.cache
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_ library management\obj\Debug\SH_ library management.exe
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_ library management\obj\Debug\SH_ library management.pdb
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_ library management\bin\Debug\SH_ library management.pdb
